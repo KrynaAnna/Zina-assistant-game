@@ -45,7 +45,6 @@ zina.stop()
 
 #Game
 n = random.randint(1,5)
-print(n)
 zina.say("Ordered, guess!")
 zina.runAndWait()
 zina.stop()
